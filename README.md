@@ -1,5 +1,4 @@
 1. **Backend Setup**:
-   - LINK TO BACKEND REPOSITORY: ''
    - DIRECTIONS FOR BACKEND REPOSITORY
     ```bash
     # Clone the repository
